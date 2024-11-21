@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML="hii this is the first javascript code";
