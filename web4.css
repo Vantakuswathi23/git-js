@@ -1,3 +1,7 @@
+:root{
+    --color-alert: #c49d0a;
+}
+
 button{
     background-color: var(--color-emphasis-500,#d96ca6);
 }
