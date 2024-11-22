@@ -7,6 +7,7 @@
     --color-warning: #fb6b04;
     --color-error: #dd2229;
     --color-monowhite:#ffffff;
+    --color-secondary:#F5F6F8;
   
    /* --brand */
     --color-brand-50: #eff9ff;  
@@ -123,6 +124,15 @@
    --color-monowhite-100:#f2f2f2;
    --color-monowhite-200:#e5e5e5;
    --color-monowhite-300:#d8d8d8;
+
+   --color-secondary-50:#EDEEF2;
+   --color-secondary-100:#B3B4C6;
+   --color-secondary-200:#A7A6BA;
+   --color-secondary-300:#8D89A2;
+   --color-secondary-400:#7A768C;
+   --color-secondary-500:#636172;
+   --color-secondary-600:#53515E;
+   --color-secondary-700:#312F37;
  
   }
   
