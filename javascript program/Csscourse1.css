@@ -1,0 +1,56 @@
+.box_container{
+    height: 200px;
+    width: 800px;
+    padding: 100px;
+    border-radius: 5px;
+    border: 2px solid brown;
+    margin: 50px;
+    display: flex;
+    
+
+} 
+.box1{
+    height: 5rem;
+    width:5rem;
+    background-color: aquamarine;
+    /* margin: 5px; */
+    display: inline-block;
+   position: relative;
+    /* top: 40px; */
+
+}
+.box2{
+    height: 5rem;
+    width: 5rem;
+    background-color: blue;
+    /* margin: 5px; */
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+}
+.box3{
+    height: 5rem;
+    width: 5rem;
+    background-color: rgb(185, 30, 139);
+    /* margin: 5px; */
+    display: inline-block;
+}
+.box4{
+    height: 5rem;
+    width: 5rem;
+    background-color: rgb(30, 134, 194);
+    /* margin: 5px; */
+    display: inline-block;
+}
+.image img{
+    width: 10rem;
+    height: 10rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.txt{
+    column-count: 3;
+    column-gap: 5;
+    /* position: fixed; */
+}
